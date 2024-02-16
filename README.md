@@ -1,6 +1,4 @@
 
-<h2 align="center">
-<a href="https://mao2116.xyz">TBOMB_MAO</a>
   
   </h2>
 </br>
@@ -14,15 +12,15 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 <b> AUTHER </b>
 </p>
  <p align="center">
-<a href="https://github.com/mao2116">
+<a href="https://github.com/huntermamunkingmamun">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/git.png">
 </a>
-<a href="https://www.facebook.com/mao2116/">
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png"><!I JUST USE A PIC FROM FH-RABBI >
+<a href="https://www.facebook.com/hunterking42/">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png">
 </a></p>
 
   
-#### THIS TOOL IS OPEN SOURCE FOR ONLY LEARNING PATH NOT FOR COPY.
+#### THIS TOOL IS OPEN SOURCE FOR ONLY LEARNING
 
 ##### JUST ENTER YOUR COUNTRY CODE !
 
@@ -36,11 +34,10 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 * `apt-get upgrade -y`
 * `apt install python git -y`
 * `pip install requests`
-* `git clone --depth=1 https://github.com/mao2116/tbomb_mao`
+* `git clone `
 ### ONE CLICK INSTALLATION :
 
 
-* `apt-get update -y ; apt-get upgrade -y ; apt install python git -y ; pip install requests ; git clone --depth=1 https://github.com/mao2116/tbomb_mao`
 
 
 
@@ -54,9 +51,7 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 * `python tbomb_mao.py`
 
 
-<p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mao2116/tbomb_mao.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
+
 
 
 
@@ -77,16 +72,6 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 
 
 
-### FOR UPDATE TOOL ():
-
-* `cd ; rm -rf tbomb_mao ; apt-get update -y ; apt-get upgrade -y ; apt install python3 git -y ; pip install requests ; git clone --depth=1 https://github.com/mao2116/tbomb_mao`
-
-
-
-### ONE CLICK INSTALLATION (OLD AND SLOW):
-* `apt-get update -y && pkg install python -y && pip install requests && pkg install git -y && git clone https://github.com/mao2116/tbomb_mao && cd tbomb_mao`
-
-
 
 
 <h3>[ ! ] TASTED ON TERMUX [ ! ]<h3/>
@@ -99,17 +84,18 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 </br>
 </br>
 <p align="center">
-<a href="https://www.facebook.com/mao2116/">
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png"><!I JUST USE A PIC FROM FH-RABBI >
+<a href="https://www.facebook.com/hunterking42/">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png">
 <a/>
 <p/>  
 
 </b>
-<b> mao2116 </b>
+<b> king of world </b>
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
   
   
+
   
