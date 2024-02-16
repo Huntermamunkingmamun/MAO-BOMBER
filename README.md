@@ -34,8 +34,7 @@ YOU CAN ALSO SEND MAIL,! WITH THIS TOOL.!</i></b>
 * `apt-get upgrade -y`
 * `apt install python git -y`
 * `pip install requests`
-* `git clone `
-### ONE CLICK INSTALLATION :
+* `git clone https://github.com/Huntermamunkingmamun/MAO-BOMBER.git`
 
 
 
